@@ -1,4 +1,4 @@
-# 🏛 Submission Pemda - Data Pipeline ke Google Sheets
+# 🏛 ETL Pipeline Sederhana ke Repositori Data
 
 Proyek ini membangun sebuah *data pipeline* sederhana untuk mengolah data dari file CSV (`products.csv`) dan mengunggahnya ke Google Sheets secara otomatis menggunakan Google Sheets API. 
 
