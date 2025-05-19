@@ -111,5 +111,3 @@ Hasil akhir dari data akan diunggah ke Google Sheets melalui service account. Li
 ## 📄 Lisensi
 
 Proyek ini dibuat untuk keperluan pembelajaran dan submission internal. Tidak untuk penggunaan komersial tanpa izin.
-
-```
