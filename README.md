@@ -1,6 +1,6 @@
 # 🏛 ETL Pipeline Sederhana ke Repositori Data
 
-Proyek ini membangun sebuah *data pipeline* sederhana untuk mengolah data dari file CSV (`products.csv`) dan mengunggahnya ke Google Sheets secara otomatis menggunakan Google Sheets API. 
+Proyek ini membangun sebuah *data pipeline* sederhana untuk mengolah data dari file CSV (`products.csv`) dan mengunggahnya ke Flat File dan Google Sheets secara otomatis menggunakan Google Sheets API. 
 
 Pipeline terdiri dari tiga tahap utama: **extract**, **transform**, dan **load** (ETL). Proyek ini juga dilengkapi dengan **unit testing** dan **test coverage**.
 
