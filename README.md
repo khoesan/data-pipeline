@@ -92,8 +92,6 @@ coverage report -m
 Hasil akhir dari data akan diunggah ke Google Sheets melalui service account. Link Google Sheet tujuan:
 [🔗 Google Spreadsheet](https://docs.google.com/spreadsheets/d/14BctMkMRHxLgnYDMkaDFx9ccGVFI92pbeKbBu34kpCw/edit?gid=0)
 
-> ⚠️ Pastikan spreadsheet tersebut telah dibagikan ke email dari service account Anda (yang terdapat di file `google-sheets-api.json`).
-
 ---
 
 ## 🛠 Penjelasan Modul
